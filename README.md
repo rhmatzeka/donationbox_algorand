@@ -1,6 +1,4 @@
-Oke 👍 berikut ini versi **README.md** yang bisa langsung kamu **salin dan tempel ke GitHub**, lengkap dengan cara menjalankannya.
 
----
 
 ````markdown
 # 🪙 DonationBox Smart Contract (Algorand + Python)
