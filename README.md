@@ -61,3 +61,7 @@ algokit project deploy localnet                            # deploy it
 | `projects/donation_box/smart_contracts/donation_box/contract.py` | The smart contract |
 | `projects/donation_box/smart_contracts/donation_box/deploy_config.py` | Deploys the contract and calls it once |
 | `projects/donation_box/README.md` | AlgoKit's full getting-started guide |
+
+## License
+
+Released under the [MIT License](LICENSE).
